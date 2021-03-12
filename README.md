@@ -1,2 +1,7 @@
 # xxd-hex
-make a hexdump or do the reverse
+
+> Make a hexdump for any type file
+
+```
+xxd [fileName]
+```
